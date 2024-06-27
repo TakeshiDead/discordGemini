@@ -14,6 +14,8 @@ Gemini is an advanced Discord bot that leverages Google's Generative AI models t
 - Server-wide Settings: Server administrators can configure server-wide settings such as chat history, custom personality, response style, and more.
 - Blacklisting and Whitelisting: Server administrators can blacklist or whitelist users from using certain interactions.
 
+
+
 ## Installation
 
 1. Clone the repository:
